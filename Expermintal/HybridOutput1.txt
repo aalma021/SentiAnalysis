@@ -1,0 +1,70 @@
+"Keywords value changed:" 
+K= 100  Range= 50  Numbers of Keywords= 1  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.669023036956787	Memory after gc= 1.5008375719189644	TimeIndex= 27.0888751	
+TimeQuery= 1.15731E14	
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.717745304107666	Memory after gc= 1.500869557261467	TimeIndex= 28.0266503	
+TimeQuery= 1.55289E14	
+K= 100  Range= 50  Numbers of Keywords= 3  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.6708240509033203	Memory after gc= 1.5007111728191376	TimeIndex= 28.8365483	
+TimeQuery= 2.15617E14	
+K= 100  Range= 50  Numbers of Keywords= 4  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7174287736415863	Memory after gc= 1.5000112801790237	TimeIndex= 29.0054051	
+TimeQuery= 2.02319E14	
+K= 100  Range= 50  Numbers of Keywords= 5  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7241852581501007	Memory after gc= 1.4998785257339478	TimeIndex= 29.7270615	
+TimeQuery= 2.29779E14	
+K= 100  Range= 50  Numbers of Keywords= 6  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7490392327308655	Memory after gc= 1.5005036368966103	TimeIndex= 28.7620836	
+TimeQuery= 3.27273E14	
+ 
+"Dataset value changed:" 
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 1000000
+No. of Tweets= 1000036	No. of Indexed Tweets= 993620	Memory before gc= 0.57421875	Memory after gc= 0.3018670380115509	TimeIndex= 4.6671505	
+TimeQuery= 1.36235E14	
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 2000000
+No. of Tweets= 2000027	No. of Indexed Tweets= 1993387	Memory before gc= 0.9219273924827576	Memory after gc= 0.6044445708394051	TimeIndex= 10.8269429	
+TimeQuery= 1.05252E14	
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 3000000
+No. of Tweets= 3000018	No. of Indexed Tweets= 2993268	Memory before gc= 1.0400409698486328	Memory after gc= 0.9015635401010513	TimeIndex= 15.9112213	
+TimeQuery= 1.1014E14	
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 4000000
+No. of Tweets= 4000009	No. of Indexed Tweets= 3993165	Memory before gc= 1.4082894325256348	Memory after gc= 1.2006651386618614	TimeIndex= 21.693677	
+TimeQuery= 1.24317E14	
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7138643264770508	Memory after gc= 1.500613160431385	TimeIndex= 29.1542595	
+TimeQuery= 1.82729E14	
+ 
+"K value changed:" 
+K= 10  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.6741739884018898	Memory after gc= 1.5002525299787521	TimeIndex= 28.2621769	
+TimeQuery= 7.0049E13	
+K= 50  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7019085884094238	Memory after gc= 1.5010420233011246	TimeIndex= 29.2102218	
+TimeQuery= 1.48591E14	
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.6932161152362823	Memory after gc= 1.5009049624204636	TimeIndex= 28.2637191	
+TimeQuery= 1.36678E14	
+K= 500  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7532422617077827	Memory after gc= 1.5008487403392792	TimeIndex= 28.9205139	
+TimeQuery= 4.18399E14	
+K= 1000  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.717146873474121	Memory after gc= 1.5004582703113556	TimeIndex= 28.5314324	
+TimeQuery= 4.45057E14	
+ 
+"Range value changed:" 
+K= 100  Range= 10  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7325675785541534	Memory after gc= 1.5005315393209457	TimeIndex= 28.6184597	
+TimeQuery= 1.6984E14	
+K= 100  Range= 30  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.6516652256250381	Memory after gc= 1.500837080180645	TimeIndex= 28.6432837	
+TimeQuery= 1.48192E14	
+K= 100  Range= 50  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7114365324378014	Memory after gc= 1.5005556643009186	TimeIndex= 28.7438397	
+TimeQuery= 1.84388E14	
+K= 100  Range= 100  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7211933135986328	Memory after gc= 1.5011330991983414	TimeIndex= 29.2885012	
+TimeQuery= 2.2293E14	
+K= 100  Range= 200  Numbers of Keywords= 2  DataSet Size= 5000000
+No. of Tweets= 5000001	No. of Indexed Tweets= 4993115	Memory before gc= 1.7163333892822266	Memory after gc= 1.5006178170442581	TimeIndex= 29.1928721	
+TimeQuery= 2.82346E14	
