@@ -1,4 +1,4 @@
-First you need to download the data USA folder from zenodo.org
+First you need to download the data USA folder from zenodo.org (USA folder here is a just subset of the original dataset)
 
 To run the Basic Index code:
 From CMD command editor
